@@ -1,2 +1,1 @@
-# .github
-Organization Description for eduTAP Collective
+# Organization Description for eduTAP Collective
